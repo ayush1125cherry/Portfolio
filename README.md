@@ -60,7 +60,7 @@ Preview Image (Screenshot for visual reference).
 6. Contact Section
 Provides multiple ways to reach me:
 Phone Number: Placeholder my number.
-Email: ayushrawat3243@gmail.com (Clickable mailto link).
+Email:(Clickable mailto link).
 Instagram: Linked with a Font Awesome icon for a modern touch.
 
 8. Footer
