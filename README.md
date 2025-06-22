@@ -71,8 +71,8 @@ The HTML document follows a standard structure with semantic sections:
 style.css Description
 1. Visual Design
 Color Scheme:
-Dark Background (#000000) with light text for readability.
-Accent Colors: Blue (rgb(40, 40, 182)), Purple (#b369a9).
+Dark Background with light text for readability.
+Accent Colors: Blue, Purple .
 Typography:
 Primary Font: "Palatino Linotype", serif (Elegant and professional).
 Text Effects: Glowing Headings (Multi-layer text-shadow).
@@ -87,10 +87,8 @@ Responsive Images: Profile photo uses object-fit: cover for consistency.
 Keyframe Animations:
 Text Reveal (Header university name).
 Hover Effects:
-The Instagram button lifts slightly (transform: translateY(-2px)).
+The Instagram button lifts slightly .
 Navigation links fade smoothly on hover.
-
-
 
 #Tools and Technologies Used
 VS Code: Primary code editor for writing HTML and CSS.
