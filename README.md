@@ -19,7 +19,7 @@ Navigation Bar:
 Logo: A clickable image that reloads the page, acting as a home button.
 Menu Links: Smooth-scrolling navigation to key sections (Home, About, Skills, Projects, Resume, Contact).
 Hero Section:
-Animated Heading: "Hi, I am Ayush" with a blue-accented name for emphasis.
+Animated Heading: "Hi, I am Ayush" with a blue highlight effect name for emphasis.
 Subtitle: My academic qualification ("Bachelor of Technology in Computer Science and Engineering").
 Dynamic Text Effect: The university name ("Uttaranchal University") appears with a smooth left-to-right reveal animation.
 
