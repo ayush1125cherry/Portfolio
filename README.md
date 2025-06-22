@@ -10,20 +10,63 @@ MENTOR: Neela Santosh
 
 #Description About the Task
 Task number 2
-This is a personal portfolio website created by me (Ayush Rawat), a Computer Science and Engineering student. The website showcases my skills, projects, education, and contact information in an interactive format.. The website is designed to highlight his technical expertise, project work, and professional details in a structured and engaging manner.
-
+This is a personal portfolio website created by me (Ayush Rawat), a Computer Science and Engineering student. This portfolio website serves as a professional digital showcase of my skills, projects, and academic journey as a Computer Science and Engineering (CSE) student at Uttaranchal University. Designed with user experience and visual appeal in mind, it effectively communicates my expertise in web development, programming, and problem-solving through an interactive and well-structured interface. The website is built using HTML5, CSS3, and minimal JavaScript, ensuring fast loading times and smooth navigation. It incorporates modern design principles, including animations, responsive layouts, and a cohesive color scheme, to create an engaging visitor experience.
 
 index.html Description
+1. Header Section
+The header serves as the first impression of the portfolio, featuring:
+Navigation Bar:
+Logo: A clickable image that reloads the page, acting as a home button.
+Menu Links: Smooth-scrolling navigation to key sections (Home, About, Skills, Projects, Resume, Contact).
+Hero Section:
+Animated Heading: "Hi, I am Ayush" with a blue-accented name for emphasis.
+Subtitle: My academic qualification ("Bachelor of Technology in Computer Science and Engineering").
+Dynamic Text Effect: The university name ("Uttaranchal University") appears with a smooth left-to-right reveal animation.
+
+2. About Section
+This section provides personal and academic insights in a two-column layout:
+Left Column: Profile Image: A professional photo with rounded borders and a shadow effect.
+Right Column: About Me Heading: Large text.
+Professional Summary: Highlights my expertise in web development, problem-solving, and emerging technologies.
+Education Timeline:
+B.Tech in CSE (Uttaranchal University, 2023–2027).
+12th & 10th Grades (CBSE board).
+
+3. Skills Section
+A visually engaging display of my technical and soft skills in a card-based grid layout:
+Frontend Development (HTML, CSS, JavaScript).
+Java (Object-Oriented Programming, Data Structures, Algorithms).
+Basics of Python.
+React.js (Hooks, State Management, Next.js).
+Communication Skills (Team Collaboration, Documentation).
+Each skill card includes:
+A glowing title (using CSS text-shadow).
+A brief description of my proficiency.
+
+4. Projects Section
+A horizontally scrollable gallery showcasing six projects:
+Tic-Tac-Toe Game (HTML/CSS/JS) 
+Landing Page (HTML/CSS) 
+Image Gallery (HTML/CSS/JS) 
+Basic Calculator (HTML/CSS/JS) 
+Amazon Clone (In Progress) 
+Spotify Clone (In Progress) 
+Project Card Components:
+Title (Clear and prominent).
+GitHub Link (For code review).
+Tech Stack (Technologies used).
+Preview Image (Screenshot for visual reference).
+
+6. Contact Section
+Provides multiple ways to reach me:
+Phone Number: Placeholder my number.
+Email: ayushrawat3243@gmail.com (Clickable mailto link).
+Instagram: Linked with a Font Awesome icon for a modern touch.
+
+8. Footer
+Dynamic Copyright Year.
+Placeholder Links: "Privacy Policy" and "Terms of Service."
 The HTML document follows a standard structure with semantic sections:
-*Header Section: Contains the navigation bar with links to different sections (Home, About, Skills, Projects, Resume, Contact), a black background with my image , 
-and an introductory text with an animated reveal effect.
-*About Section: Features my photo, a brief bio, and education details in a two-column layout (image on left, text on right).
-*Skills Section: Displays technical and soft skills in card format, with each skill (HTML/CSS/JS, Java, Python, React, Communication) getting its own styled box.
-*Projects Section: Showcases six projects in a horizontal scrollable container, including Tic-Tac-Toe, Landing Page, Image Gallery, Basic Calculator, and incomplete Amazon/Spotify clones. Each project card has a title, description, GitHub link (where available), and screenshot.
-*Contact Section: Provides contact information, including phone, email, and Instagram link with appropriate icon.
-*Footer: Contains copyright information and basic links.
-
-
 
 style.css Description
 
