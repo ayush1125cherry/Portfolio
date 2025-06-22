@@ -92,8 +92,6 @@ Navigation links fade smoothly on hover.
 
 
 
-Summary: This portfolio website serves as a polished demonstration of modern front-end development skills, showcasing a mastery of responsive web design principles. The clean, semantic HTML5 structure forms a solid foundation, while advanced CSS3 techniques create visually striking elements like the glowing text effects and smooth animations. Thoughtful implementation of Flexbox ensures fluid layout organization across all sections, with careful attention to responsive behavior through relative units and media queries. The design exhibits strong UI/UX sensibilities through its intuitive navigation, consistent dark-themed color scheme with strategic accent colors, and professional typography hierarchy. The website's performance-optimized code, proper asset loading, and cross-browser compatibility considerations reflect professional-grade development practices. Its modular component architecture demonstrates scalable coding methods, while the accessible design meets modern web standards. This digital portfolio not only presents information effectively but also does so through a technically impressive framework that highlights the creator's comprehensive understanding of contemporary web technologies and design aesthetics.
-
 #Tools and Technologies Used
 VS Code: Primary code editor for writing HTML and CSS.
 HTML5 for structure and content
